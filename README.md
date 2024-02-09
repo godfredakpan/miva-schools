@@ -1,3 +1,35 @@
+# Introduction
+
+### 1. Introduction:
+
+Welcome to EDTech! This document provides instructions on how to set up, run, and test the project. The platform allows users to access video lessons, make notes, and participate in quizzes.
+
+### 2. Prerequisites:
+
+Before starting, ensure you have the following tools installed on your machine:
+
+- Node.js (v14 or later)
+- npm (comes with Node.js)
+- MongoDB (installed and running)
+
+### 3. Setup
+1. Backend
+- npm install
+- npm start 
+2. Frontend
+- cd frontend
+- npm start
+3. Database
+- connect to mongodb.. e,g 
+PORT=3001
+MONGODB_URI=mongodb://localhost:27017/online-learning-db
+
+### 4. Testing
+- npm test 
+
+###
+
+
 # A - Main Flow
 
 The main flow of the web application involves users interacting with the system to access courses, view videos, make notes, and participate in quizzes. Below is the step-by-step main flow:
