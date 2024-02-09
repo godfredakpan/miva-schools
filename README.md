@@ -261,3 +261,8 @@ The solution comprises a web application built using Next.js or React for the fr
 ## Conclusion
 
 The solution ensures a robust and scalable online learning platform. Users can easily access courses, view videos, make notes, and participate in quizzes. The design incorporates best practices, coding principles, and standards, contributing to a high-quality and maintainable codebase. Future iterations may introduce additional features based on user feedback and evolving requirements.
+
+
+# Postman Collection
+
+https://documenter.getpostman.com/view/23218164/2s9Yyzddvu

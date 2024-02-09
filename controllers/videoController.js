@@ -15,7 +15,6 @@ exports.getVideoById = async (req, res) => {
   try {
     const { videoId } = req.params;
     const video = await Video.find({ _id: videoId });
-    console.log('video', video)
     res.json(video);
   } catch (error) {
     res.status(500).json({ error: 'Internal Server Error' });
