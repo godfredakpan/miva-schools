@@ -1,0 +1,36 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import '@fortawesome/fontawesome-svg-core/styles.css';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+
+.layout-divider{ 
+    background-color: #EDEDEE;
+}
+
+.card{
+    height: 100px;
+    margin-bottom: 200px;
+    border-radius: 12px;
+}
+
+.advert-card{
+    background-color: #2D105A;
+    margin-bottom: 50px;
+}
+
+.exam-card{
+    background-color: #FFFFFF;
+    height: auto;
+    padding: 30px;
+}
+
+.course-cards{
+    margin-right: 10px;
+    padding: 40px;
+    
+}
+
+
+
